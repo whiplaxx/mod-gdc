@@ -7,7 +7,7 @@ function(){
 /* Variaveis do tema */
 
 /* cor do fundo do canvas e do painel de controle */
-var backgroundColor = "black";
+var backgroundColor = "#303030";
 /* cor da fonte do texto do painel de controle */
 var fontColor = "white";
 
